@@ -43,22 +43,22 @@ Currently deepening expertise in machine learning and intelligent systems, with 
 ---
 
 ## GitHub Stats
-
-![Shane's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shanedesal&show_icons=true&theme=default&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shanedesal&layout=compact&hide_border=true&theme=default)
-
----
+![Shane's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shanedesal&show_icons=true&theme=default&hide_border=true&hide_rank=true&card_width=400)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shanedesal&hide_border=true&theme=default&exclude_repo=StudentPortal&langs_count=20&include_forks=true&card_width=400&layout=donut)
 
 ## Featured Projects
 
 | Project | Description | Stack |
 |---|---|---|
+| [HazTrack](https://github.com/shanedesal/Haztrack) | Mobile hazard reporting platform with real-time AI hazard classification | Kotlin, Firebase |
 | [Capstone AI Hazard Classification](https://github.com/shanedesal/Capstone-AI-hazard-classification) | Real-time hazard detection and severity classification system | Python, YOLOv8 |
-| [AI Chatbot for Haztrack](https://github.com/shanedesal/Capstone-AI-Chatbot-for-haztrack) | AI-powered chatbot integrated into a hazard tracking platform | Python, NLP |
+| [AI Chatbot for HazTrack](https://github.com/shanedesal/Capstone-AI-Chatbot-for-haztrack) | AI-powered chatbot integrated into the HazTrack platform | Python, NLP |
+| [TechVent](https://github.com/shanedesal/TechVent-Laravel) | Inventory management system built on a full-stack web platform | PHP, Laravel, MySQL |
+| [InnoVest](https://github.com/shanedesal/android_app_gradlaunch) | Android platform connecting innovators and investors to pitch and fund ideas | Kotlin, Firebase |
+| [AlliEats](https://github.com/shanedesal/AlliEats) | Food ordering system with full order management and UI | C#, ASP.NET |
+| [InnoVest Ktor Server](https://github.com/shanedesal/ktor-server-for-InnoVest-Gradlaunch-) | Backend API server powering the InnoVest mobile platform | Kotlin, Ktor |
 | [YOLOv8 Hazard Detection](https://github.com/shanedesal/YoloV8s-Hazard-Detection) | Object detection pipeline for identifying workplace hazards | Python, YOLOv8 |
-| [TechVent Laravel](https://github.com/shanedesal/TechVent-Laravel) | Full-stack web platform built with Laravel | PHP, Laravel, MySQL |
-| [InnoVest Ktor Server](https://github.com/shanedesal/ktor-server-for-InnoVest-Gradlaunch-) | Backend API server for a mobile investment platform | Kotlin, Ktor |
-| [iBucket Mobile](https://github.com/shanedesal/iBucket-Mobile) | Android mobile application | Kotlin, Firebase |
+
 
 ---
 
