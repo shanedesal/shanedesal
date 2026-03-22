@@ -4,9 +4,11 @@
 
 ---
 
-Cebu-based software engineer with experience building across the full stack — from Android and iOS mobile applications to backend APIs, AI-integrated systems, and database-driven web platforms. Focused on writing clean, purposeful code that solves real problems.
-
-Currently deepening expertise in machine learning and intelligent systems, with applied work in object detection and computer vision using YOLOv8 and MobileNetV2.
+Cebu-based software engineer currently interning with a focus on native Android development using Kotlin. 
+Experienced across the full stack — from Android mobile applications to backend APIs, AI-integrated systems, 
+and database-driven web platforms. Built and deployed real-world projects including AI-powered hazard detection 
+and classification systems as part of capstone research. Comfortable working with relational and NoSQL databases 
+(MySQL, MSSQL, MongoDB, Firebase, Supabase) and building scalable server-side logic.
 
 ---
 
