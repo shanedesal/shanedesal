@@ -44,7 +44,7 @@ Currently deepening expertise in machine learning and intelligent systems, with 
 
 ## GitHub Stats
 ![Shane's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shanedesal&show_icons=true&theme=default&hide_border=true&hide_rank=true&card_width=400)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shanedesal&hide_border=true&theme=default&exclude_repo=StudentPortal&langs_count=20&include_forks=true&card_width=400&layout=donut)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shanedesal&hide_border=true&theme=default&exclude_repo=StudentPortal&langs_count=20&include_forks=true&card_width=400&layout=compact)
 
 ## Featured Projects
 
